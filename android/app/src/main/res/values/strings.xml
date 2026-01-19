@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Edge</string>
+    <string name="shortcut_do_not_uninstall_short">⚠️ Save 2FA First!</string>
+    <string name="shortcut_do_not_uninstall_long">⚠️ Login requires 2FA & credentials!</string>
 </resources>
