@@ -2,6 +2,9 @@
 
 ## Unreleased (develop)
 
+- added: Home screen long-press shortcut to contact support
+- added: Home screen long-press shortcut warning about data loss on uninstall
+
 ## 4.44.0 (staging)
 
 - added: MAYAChain (CACAO) wallet support
