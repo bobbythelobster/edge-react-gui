@@ -2,6 +2,8 @@
 
 ## Unreleased (develop)
 
+- added: More robust error handling in `SwipeChart` to handle rate limits
+
 ## 4.44.0 (staging)
 
 - added: MAYAChain (CACAO) wallet support
