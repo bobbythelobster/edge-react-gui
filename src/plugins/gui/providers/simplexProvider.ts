@@ -454,6 +454,10 @@ export const simplexProvider: FiatProviderFactory = {
             const deeplinkHandlerAsync = async (
               link: FiatProviderLink
             ): Promise<void> => {
+              console.log(
+                '[Simplex] deeplinkHandlerAsync: ' +
+                  JSON.stringify(link, null, 2)
+              )
               if (link.direction !== 'buy') return
 
               const orderId = link.query.orderId ?? 'unknown'
